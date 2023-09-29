@@ -78,7 +78,7 @@ const Container = styled.div`
 const Title = styled.h1`
   font-size: 2.5em;
   margin-bottom: 20px;
-  font-family:  'Orbitron', sans-serif;  /* Hoặc 'Oswald', sans-serif; Hoặc 'Orbitron', sans-serif; */
+  font-family:  'Orbitron', sans-serif;  
 `;
 
 const Button = styled.button`
@@ -118,7 +118,7 @@ const Input = styled.input`
 const Timer = styled.span`
   font-size: 48px;
   font-weight: bold;
-  font-family: 'Roboto Mono', monospace;  /* Sử dụng font chữ tương tự như đã thêm vào trong index.html */
+  font-family: 'Roboto Mono', monospace; 
 `;
 
 
